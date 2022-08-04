@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: parthasraha/gatsby-garden
+  name: github // git-gateway if using netlify identitiy
+  repo: parthasraha/gatsby-garden  // not required if netlify identity
   branch: main
 
 media_folder: "images/uploads"
