@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: parthasraha/gatsby-garden
   branch: main
 
 media_folder: "images/uploads"
